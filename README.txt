@@ -1,66 +1,75 @@
-# Welcome to p5.js
+<a name="readme-top"></a>
 
-You have downloaded the complete p5.js library ZIP file, yay!
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/SureshShar">
+    <img src="images/Pillow Jump ball.png" alt="Logo" width="80" height="80">
+  </a>
 
-# Contents of the p5 folder
+  <h3 align="center">Pillow jump ball game</h3>
 
-* p5.js file
-* p5.min.js file
-* addons folder
-  * p5.sound.js
-  * p5.sound.min.js
-* empty-example folder
-  * index.html
-  * p5.js
-  * p5.sound.js
-  * sketch.js
+  <p align="center">
+    An awesome description of the game!
+    <br />
+    <a href="https://github.com/SureshShar/P5_Js_library"><strong>Explore the Info »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/SureshShar/P5_Js_library">View Demo</a>
+    ·
+    <a href="https://github.com/SureshShar/P5_Js_library/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/SureshShar/P5_Js_library/issues">Request Feature</a>
+  </p>
+</div>
 
-## p5.js
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-This file stores the complete p5.js library. It is easy to read by humans, so feel free to open it and explore its contents. It also has a friendly error system, which helps new programmers with common user errors.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-## p5.min.js
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-This file is a minified version of the p5.js file. It is a lighter version, with the same functionalities, but smaller file size. This minified version is harder to read for humans, and does not include the friendly error system.
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
 
-## addons folder
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-The addons folder includes additional p5.js related libraries, in both original versions and minified versions.
+Use the `BLANK_README.md` to get started.
 
-### p5.sound.js, p5.sound.min.js
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-p5.sound extends p5.js with Web Audio functionality including audio input, playback, analysis, and synthesis.
 
-## empty-example folder
 
-This is an empty example of a website. The folder includes the file for the website, index.html, the p5.js library, other related p5.js libraries, and a template starting point for your p5.js sketch, called sketch.js.
+### Built With
 
-### index.html
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-index.html is a template for an HTML file. This index.html first imports the libraries included in the folder (p5.js, p5.sound.js) then loads and executes the file sketch.js which is where you can write your own code.
+* [![P5][P5.js]][https://p5js.org/]
 
-### sketch.js
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The sketch.js is a template for the p5.js sketch, with the functions setup() and draw() that you can complete.
 
-## README.txt
 
-This README file formatted with Markdown :)
+<!-- GETTING STARTED -->
+## Getting Started
 
-# What's next?
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-If you need more information to help get you started, please refer to our website:  
-https://p5js.org/get-started/ and https://p5js.org/learn/
+### Installation
 
-An online reference to the p5.js library is available here:  
-https://p5js.org/reference/
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-In order to run your website (including the empty-example), you need to enable a local server, please see this tutorial in our wiki:  
-https://github.com/processing/p5.js/wiki/Local-server
+1. Clone the repo
+   ```sh
+   git clone https://github.com/SureshShar/P5_Js_library
+   ```
+2. Run the live server at 
+ ```sh
+   empty-example/index.html
+   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-p5.js is a community and p5.js is built by contributions. If you want to learn more about us, visit:  
-https://p5js.org/community/
-
-# License
-
-The p5.js library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, version 2.1.
